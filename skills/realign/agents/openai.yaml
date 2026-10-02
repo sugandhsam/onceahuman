@@ -1,0 +1,5 @@
+interface:
+  display_name: "Realign"
+  short_description: "Restate Sam's goal and the real problem in your own words, then wait for 'go' before starting. Use on /realign, 'check your understanding', or any non-trivial or ambiguous request. Skip for quick lookups."
+policy:
+  allow_implicit_invocation: false
